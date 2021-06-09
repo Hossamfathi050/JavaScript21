@@ -7,7 +7,5 @@ for (var i = 0; i < theNames.length; i++) {
   console.log(theNames[i]);
 }
 
-
-"Osama"
 "Ahmed"
 "Sayed"
