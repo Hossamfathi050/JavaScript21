@@ -1,6 +1,6 @@
 var theList = ["Hossam", "Fathi", "Soliman"];
 
-for (var i = 0; i < theNames.length; i++) {
+for (var i = 0; i < theList.length; i++) {
   if (theList[i] === "Fathi") {
     break;
   }
