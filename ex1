@@ -1,4 +1,4 @@
-var theNames = ["Hossam", "Fathi", "Soliman"];
+var theList = ["Hossam", "Fathi", "Soliman"];
 
 for (var i = 0; i < theNames.length; i++) {
   if (theNames[i] === "Fathi") {
@@ -6,4 +6,3 @@ for (var i = 0; i < theNames.length; i++) {
   }
   console.log(theNames[i]);
 }
-
