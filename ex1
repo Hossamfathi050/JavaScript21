@@ -4,5 +4,5 @@ for (var i = 0; i < theList.length; i++) {
   if (theList[i] === "Fathi") {
     break;
   }
-  console.log(theNames[i]);
+  console.log(theList[i]);
 }
