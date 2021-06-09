@@ -1,7 +1,7 @@
 var theList = ["Hossam", "Fathi", "Soliman"];
 
 for (var i = 0; i < theNames.length; i++) {
-  if (theNames[i] === "Fathi") {
+  if (theList[i] === "Fathi") {
     break;
   }
   console.log(theNames[i]);
