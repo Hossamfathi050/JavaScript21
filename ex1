@@ -1,7 +1,7 @@
-var theNames = ["Osama", "Ahmed", "Sayed", "Eman", "Mahmoud", "Khaled"];
+var theNames = ["Hossam", "Fathi", "Soliman"];
 
 for (var i = 0; i < theNames.length; i++) {
-  if (theNames[i] === "Eman") {
+  if (theNames[i] === "Fathi") {
     break;
   }
   console.log(theNames[i]);
